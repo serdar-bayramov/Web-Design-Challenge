@@ -4,7 +4,7 @@ This repo contains a website with 7 pages total with links, including:
 
 * A landing page containing:
   * An explanation of the project.
-  * Links to each visualizations page. There is also a sidebar containing preview images of each plot, by clikcing on the image the user can go to that visualization.
+  * Links to each visualizations page. There is also a sidebar containing preview images of each plot, by clicking on the image the user can go to that visualization.
 
 * Four visualization pages, each with:
   * A descriptive title and heading tag.
@@ -14,9 +14,10 @@ This repo contains a website with 7 pages total with links, including:
 * A "Comparisons" page that:
   * contains all of the visualizations on the same page so we can easily visually compare them.
 
-  * A "Data" page that:
+* A "Data" page that:
   * Displays a responsive table containing the data used in the visualizations.
-    * The data comes from exporting the `.csv` file and converting to HTML using python pandas library. 
+
+* The data comes from exporting the `.csv` file and converting to HTML using python pandas library. 
 
 The website has at the top of every page, a navigation menu that:
 
